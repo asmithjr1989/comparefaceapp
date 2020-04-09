@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47f89621-2bb2-4acc-92b0-5c614d8daa6b" name="Default Changelist" comment="" />
+    <list default="true" id="47f89621-2bb2-4acc-92b0-5c614d8daa6b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/CompareFaceDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/CompareFaceDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/controller/CompareFaceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/controller/CompareFaceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/service/CompareFaceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/service/CompareFaceService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1a6HARhg6sSKPnHpMSdvk9y8IiJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +44,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -75,6 +87,7 @@
       <updated>1586048979906</updated>
       <workItem from="1586048984153" duration="14866000" />
       <workItem from="1586203231383" duration="1632000" />
+      <workItem from="1586280025065" duration="1501000" />
     </task>
     <servers />
   </component>
@@ -126,10 +139,10 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="811" y="359" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1586203284719" />
-    <state x="727" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1586203232183">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state x="477" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1586280028123">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="477" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586048992094" />
+    <state x="477" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586280028123" />
     <state x="727" y="490" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1586203232183" />
     <state x="82" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1586193806406">
       <screen x="0" y="0" width="1680" height="1050" />
